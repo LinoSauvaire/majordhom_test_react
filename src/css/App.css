@@ -1,0 +1,9 @@
+/* Assurez-vous que cette CSS est importée dans votre fichier principal, comme App.css */
+body {
+  background-image: url("./assets/img/salon.png"); /* Chemin relatif à partir du répertoire public */
+  background-size: cover; /* Couvre tout l'écran */
+  background-position: center; /* Centre l'image */
+  background-repeat: no-repeat; /* Évite la répétition de l'image */
+  margin: 0; /* Enlève les marges par défaut du body */
+  font-family: Arial, sans-serif; /* Définir une police de base */
+}
